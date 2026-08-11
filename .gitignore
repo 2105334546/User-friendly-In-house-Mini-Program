@@ -1,0 +1,8 @@
+# 构建产物
+build/
+__pycache__/
+*.pyc
+
+# 用户数据 / 密钥（含 DeepSeek API Key，切勿上传）
+config.json
+git_data.json
